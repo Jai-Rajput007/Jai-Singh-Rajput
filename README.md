@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Student of Life 😉 </h1>
 <p>👨‍💻 Passionate developer with skills in C++, Python, Qt 🤖 Enthusiast in AI & ML ☁️ AWS Cloud and Git for seamless development 🧩 Strong foundation in DSA  🚀 Ready to create impactful solutions!</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀Tools I Like </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
